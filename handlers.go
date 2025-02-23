@@ -5,7 +5,6 @@ import (
 	"log"
 	"net/http"
 	"time"
-	
 )
 
 func TimeHandler(w http.ResponseWriter, r *http.Request) {
