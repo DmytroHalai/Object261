@@ -1,1 +1,1 @@
-This is a project of our team "Object 261"
+This is a project of team "Object 261"
